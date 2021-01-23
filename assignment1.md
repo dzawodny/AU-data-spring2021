@@ -1,4 +1,4 @@
-# Assignment 1 - Critique of Tampa Bay Times Investigation of Police Practices
+# Assignment 1 - Critique of Tampa Bay Times Investigation of Police Practices / Final Story Pitch
 
 [Targeted - A Tampa Bay Times Investigation](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/)
 
