@@ -18,7 +18,6 @@ Further, we will compare any shift we find with eviction data from the district 
 **Next Section
 
 
-## Questions we still have ##
+## Reporting we didn't find (and what we want to answer) ##
 
-
-## Data we intend to use ##
+We want to look more broadly at the landscape of landlords in DC in terms of big vs. little and compare that to eviction data or expectations. We have a dataset of all the Basic Business Licenses DC has issued since 2008, which tells us the number of landlords in the city and how many own which type of rental (single-family, two-family, apartment or co-op). We'll be able to use that data to figure out how the rental landscape has changed since the financial crisis, and we'll be able to use data and reporting from Princeton's Eviction Lab as well as other places to show how the size of landlord affects a tenants chance of eviction.
