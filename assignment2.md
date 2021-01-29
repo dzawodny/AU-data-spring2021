@@ -8,14 +8,17 @@ Further, we will compare any shift we find with eviction data from the district 
 
 **Evictions in the District**
 
-+ [Washington City Paper](https://washingtoncitypaper.com/article/500983/these-landlords-file-the-most-evictions-in-d-c/) reported in October that 10 landlords who own 16% of rental properties in the District filed 37% of evictions between 2014 and 2019.
-+ [DCist](https://dcist.com/story/20/12/16/judge-strikes-down-dc-ban-eviction-filings/) reported in December that a D.C. Superior Court Judge ruled that a ban on eviction filings during the pandemic was unconstitutional.
++ [Washington City Paper](https://washingtoncitypaper.com/article/500983/these-landlords-file-the-most-evictions-in-d-c/) reported in October 2020 that 10 landlords who own 16% of rental properties in the District filed 37% of evictions between 2014 and 2019. This article presents who many think will be main players in the coming eviction crisis, but does not give a full look at the eviction landscape. 
++ [DCist](https://dcist.com/story/20/12/16/judge-strikes-down-dc-ban-eviction-filings/) reported in December that a D.C. Superior Court Judge ruled that a ban on eviction filings during the pandemic was unconstitutional. Although evictions still cannot legally take place, landlords may continue to file complaints in court, and hearings can begin as soon as the moratorium ends.
 + [Street Sense Media](https://www.streetsensemedia.org/article/seal-tenant-eviction-records-limit-landlord-filing/#.YBNh0ehKhPY) reported in October that D.C. City Council passed a bill to change some of the rules regarding evictions to the benefit of renters. The new law restricts landlords from discriminating against renters with a prior eviction on record and mandates the sealing of eviction records after 30 days if the eviction is not carried out and three years if it is.
 
 **Housing in the times of COVID**
 
++ According to [Forbes](https://www.forbes.com/sites/jennifercastenson/2020/10/12/the-pandemic-threatens-the-already-vulnerable-affordable-housing-crisis/?sh=e345bcc393d3), affordable housing development projects rely greatly on government support, and the pandemic has cost cities around the country millions in revenue. Meanwhile, mom-and-pop landlords have been left out to dry.
++ In October, [WAMU](https://wamu.org/story/20/10/27/dc-landlords-eviction-moratorium-coronavirus-pandemic-relief-housing/) reported on these landlords struggling during the pandemic in Washington DC. The moratorium on evictions has left mom-and-pop landlords without much recourse and many are left with the tough choice of losing money while still needing to make mortgage payments or selling out to larger corporate property owners. According to WAMU, DC’s policy is more focused on the large landlords. In September, landlord attorneys argued before a D.C. Superior Court judge that owners should be able to initiate evictions against tenants who have had longstanding problems unrelated to the pandemic
++ In December, the [Washington Post](https://www.washingtonpost.com/dc-md-va/2020/12/09/small-landlords-struggle-under-covid-eviction-moratoriums/) reported on the subject after Mayor Bowser announced a new program offering $10 million in funding for landlords to help pay off back rent. Landlord advocates say it was a welcome step forward, but fear it may be too late for some. 
 
-**Next Section
+**Joe's Section**
 
 
 ## Reporting we didn't find (and what we want to answer) ##
