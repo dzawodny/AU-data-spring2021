@@ -18,8 +18,11 @@ Further, we will compare any shift we find with eviction data from the district 
 + In October, [WAMU](https://wamu.org/story/20/10/27/dc-landlords-eviction-moratorium-coronavirus-pandemic-relief-housing/) reported on these landlords struggling during the pandemic in Washington DC. The moratorium on evictions has left mom-and-pop landlords without much recourse and many are left with the tough choice of losing money while still needing to make mortgage payments or selling out to larger corporate property owners. According to WAMU, DC’s policy is more focused on the large landlords. In September, landlord attorneys argued before a D.C. Superior Court judge that owners should be able to initiate evictions against tenants who have had longstanding problems unrelated to the pandemic
 + In December, the [Washington Post](https://www.washingtonpost.com/dc-md-va/2020/12/09/small-landlords-struggle-under-covid-eviction-moratoriums/) reported on the subject after Mayor Bowser announced a new program offering $10 million in funding for landlords to help pay off back rent. Landlord advocates say it was a welcome step forward, but fear it may be too late for some. 
 
-**Joe's Section**
+**What's with all these fancy apartments around D.C.?**
 
++ [Wtop News](https://wtop.com/business-finance/2016/08/down-side-of-dcs-luxury-apartment-boom/) reported back in 2016 that the majority of rentals being built in DC are luxury apartment buildings. These buildings have been sprouting in neighborhoods that weren't upper end residential areas before, causing both an increase in rental prices for luxury apartments and even for affordable housing in DC.
++ Right at the start of the pandemic, [Rebusiness Online](https://rebusinessonline.com/washingtons-tech-boom-changes-the-multifamily-investment-calculus/) wrote this article explaining how more tech jobs means more tech money and a demand for the above-mentioned luxury apartment buildings. More demand will allow investors to increase rental prices.
++ Thought not specifically targeting apartments, [Washington Business Journal](https://www.bizjournals.com/washington/news/2019/09/04/as-d-c-area-housing-market-booms-researchers-warn.html) ran this story in September of 2019 highlighting a study estimating that over 200,000 D.C. residents could be displaced in the following years because of higher housing costs.
 
 ## Reporting we didn't find (and what we want to answer) ##
 
