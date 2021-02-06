@@ -1,0 +1,124 @@
+Call date,Time of call,Caller Country of Origin,Caller's date of birth,Caller county,Caller Zip Code,# of adults in household,# of minors in household,Tier 2 action taken,Test Result 
+5.4.20,9:04,Guatemala ,6/27/1962,Baltimore City,21224,4,,isolate and monitor symptoms,
+5.4.20,,Guatemala ,8/20/1960,Baltimore City,21224,4,,Testing requested,pending
+5.4.20,9:06,Honduras,7/9/1980,Baltimore City,21224,6,2,isolate and monitor symptoms,
+5.4.20,9:09,Guatemala,12/19/1987,Baltimore City,21224,3,2,Testing requested,pending
+5.4.20,,Guatemala,1/20/1981,Baltimore City,21224,3,2,Testing requested,pending
+5.4.20,,Guatemala,10/9/1984,Baltimore City,21224,3,2,Testing requested,
+5.4.20,,Guatemala,1/11/2004,Baltimore City,21224,3,2,Testing requested,pending
+5.4.20,,Guatemala,4/2/2011,Baltimore City,21224,3,2,Testing requested,pending
+5.4.20,9:18,Honduras,2/13/1993,Baltimore City,21230,4,1,Testing requested,positive
+5.4.20,9:24,El Salvador,3/13/1991,Baltimore City,21224,4,3,work clearance provided,
+5.4.20,9:28,Mexico,2/27/1986,Baltimore City,21224,6,1,work clearance provided,
+5.4.20,9:30,Honduras,3/2/1992,Baltimore City,21230,6,2,Testing requested,positive
+5.4.20,9:32,Peru,6/22/1981,Baltimore City,21030,5,,work clearance provided,
+5.4.20,9:37,Guatemala ,3/5/1995,Baltimore City,21224,4,1,isolate and monitor symptoms,
+5.4.20,9:38,Guatemala,6/17/1992,Baltimore City,21224,3,3,isolate and monitor symptoms,
+5.4.20,9:59,Mexico,3/27/1985,Baltimore City,21237,4,1,isolate and monitor symptoms,
+5.4.20,10:14,Honduras,8/22/1987,Baltimore City,21224,4,2,Testing requested,positive
+5.4.20,10:16,Guatemala,12/15/1996,Baltimore County,21224,,,isolate and monitor symptoms,
+5.4.20,10:21,Honduras,3/18/1978,Baltimore City,21224,2,2,Testing requested,positive
+5.4.20,10:33,USA,6/1/1999,Baltimore County,21237,3,1,Testing requested,positive
+5.4.20,10:37,El Salvador,3/31/1978,Baltimore County,21221,2,2,Testing requested,positive
+5.4.20,10:40,Honduras,8/26/1972,Baltimore City,21205,2,3,Testing requested,positive
+5.4.20,10:59,El Salvador,8/17/1977,Baltimore City,21224,,,work clearance provided,
+5.4.20,11:33,El Salvador,8/13/1992,Baltimore City,21230,4,1,Testing requested,negative
+5.4.20,11:39,El Salvador,5/18/1981,Baltimore City,21230,4,2,Testing requested,
+5.4.20,11:45,Guatemala ,7/15/1971,Baltimore County,21227,2,2,Testing requested,pending
+5.4.20,12:03,Guatemala ,9/8/1994,Baltimore City,21224,4,3,isolate and monitor symptoms,
+5.4.20,12:41,Guatemala ,12/25/2000,Baltimore County,21234,4,4,Testing requested,positive
+5.4.20,12:46,Mexico,8/5/1974,Baltimore City,21205,5,,Testing requested,positive
+5.4.20,12:58,Honduras,8/5/1990,Baltimore City,21224,2,2,testing requested,positive
+5.4.20,1:09,Peru,6/23/1953,Baltimore City,21224,5,,Testing requested,positive
+5.4.20,,Peru,5/22/1952,Baltimore City,21224,5,,Testing requested,pending
+5.4.20,,Peru,10/16/1996,Baltimore City,21224,5,,Testing requested,pending
+5.4.20,,Peru,10/4/1998,Baltimore City,21224,5,,Testing requested,positive
+5.4.20,,Peru,8/9/1948,Baltimore City,21224,5,,Testing requested,positive
+5.4.20,,Peru,11/25/2015,Baltimore City,21224,5,,Testing requested,pending
+5.4.20,1:21,Honduras,9/1/1958,Baltimore City,21224,5,3,Testing requested,positive
+5.4.20,1:53,Honduras,3/1/1994,Baltimore County,21222,3,1,Testing requested,positive
+5.4.20,,Honduras,1/14/1994,Baltimore County,21222,3,1,Testing requested,positive
+5.4.20,2:06,Mexico,6/27/1982,Baltimore County,21227,2,4,isolate and monitor symptoms,
+5.4.20,2:18,El Salvador,5/28/1977,Baltimore City,21205,2,3,Testing requested,positive
+5.4.20,2:27,El Salvador,6/7/1996,Baltimore City,21218,2,,isolate and monitor symptoms,
+5.4.20,2:58,El Salvador,10/3/1981,Baltimore City,21224,4,2,Testing requested,positive
+5.4.20,3:05,Guatemala ,4/27/1998,Baltimore City,21224,4,3,Testing requested,positive
+5.4.20,3:15,El Salvador,12/29/1981,Baltimore City,21211,,,work clearance provided,
+5.4.20,3:15,Mexico,6/28/1963,Baltimore City,21224,2,3,isolate and monitor symptoms,
+5.4.20,3:31,Puerto Rico,3/29/1994,Baltimore County,21222,3,1,isolate and monitor symptoms,
+5.4.20,3:36,Mexico,6/20/1985,Baltimore City,21234,3,2,Testing requested,pending
+5.4.20,4:00,Mexico,8/19/1982,Baltimore City,21224,3,3,Testing requested,positive
+5.4.20,4:08,Mexico,4/4/1946,Baltimore City,21224,3,3,Testing requested,
+5.4.20,4:19,Mexico,8/4/1984,Baltimore City,21224,3,3,Testing requested,
+5.4.20,4:26,Mexico,4/4/1946,Baltimore City,21224,3,3,Testing requested,
+5.4.20,4:49,El Salvador,6/4/2015,Baltimore City,21212,4,2,Testing requested,pending
+5.5.20,11:19,Guatemala,2/18/1992,Anne Arundel County,21061,2,,Testing requested,positive
+5.5.20,11:42,Honduras,4/9/2000,Baltimore City,21205,3,2,testing requested,positive
+5.5.20,12:16,Honduras,4/12/1990,Baltimore City,21227,1,,referred to ED,
+5.5.20,1:16,El Salvador,9/12/1979,Baltimore City,21224,1,4,testing requested,pending
+5.5.20,,El Salvador,11/8/2001,Baltimore City,21224,1,4,testing requested,pending
+5.5.20,3:48,El Salvador,3/10/1995,Baltimore City,21224,1,4,testing requested,positive
+5.5.20,4:05,Honduras,1/15/1976,Baltimore City,21225,1,,testing requested,positive
+5.6.20,9:10,Mexico,4/22/1987,Baltimore City,21218,3,5,testing requested,negative
+5.6.20,9:54,Mexico,4/1/1979,Baltimore City,21223,4,2,isolate and monitor symptoms,
+5.6.20,11:17,Guatemala,7/17/1990,Baltimore City,21224,4,1,testing requested,positive
+5.6.20,11:37,Honduras ,6/15/1978,Baltimore City,21224,4,1,isolate and monitor symptoms,
+5.6.20,12:55,Mexico,4/9/1985,Baltimore City,21224,4,3,Testing requested,positive
+5.6.20,,Mexico,7/5/1987,Baltimore City,21224,4,3,Testing requested,negative
+5.6.20,1:16,Honduras ,7/9/1979,Baltimore City,21224,3,1,Testing requested,positive
+5.6.20,2:04,Honduras ,4/12/1991,Baltimore City,21224,5,2,isolate and monitor symptoms,
+5.6.20,2:11,El salvador ,10/4/1987,Baltimore County,21117,4,3,Testing requested,pending
+5.6.20,2:14,Mexico,12/24/1989,Baltimore City,21231,5,2,isolate and monitor symptoms,
+5.6.20,2:16,Ecuador,8/20/1982,Baltimore City,21224,2,3,Testing requested last week,
+5.6.20,2:53,Honduras ,4/26/1992,Baltimore County,21222,3,,testing requested,pending
+5.6.20,3:12,El Salvador,1/1/1972,Baltimore City,21224,5,1,Testing requested,positive
+5.6.20,3:34,El salvador ,10/15/1981,Baltimore County,21222,4,,work clearance provided,
+5.6.20,4:00,Honduras ,11/15/1993,Baltimore City,21224,6,,isolate and monitor symptoms,
+5.6.20,4:05,Honduras,11/28/1984,Baltimore City,21205,2,1,Testing requested,pending
+5.7.20,9:19,USA ,1/6/1992,Baltimore City,21224,5,,Testing requested,positive
+5.7.20,9:19,Mexico ,4/26/1963,Baltimore City,21224,5,,Testing requested,positive
+5.7.20,9:19,Mexico,8/8/1985,Baltimore City,21224,5,,Testing requested,positive
+5.7.20,9:30,Guatemala,6/29/1978,Baltimore County,21117,4,,Testing requested,negative
+5.7.20,9:44,Honduras,3/29/1983,Baltimore City,21224,2,2,Testing requested,positive
+5.7.20,9:48,Mexico,7/31/1996,Baltimore City,21205,4,,Testing requested,pending
+5.7.20,10:27,El Salvador,1/25/1987,Baltimore County,21221,2,2,Testing requested,pending
+5.7.20,10:27,El Salvador,6/28/1985,Baltimore County,21221,2,2,Testing requested,positive
+5.7.20,10:27,Mexico,10/12/1988,Baltimore City,21215,2,3,Testing requested,positive
+5.7.20,,Mexico,4/3/1980,Baltimore City,21215,2,3,Testing requested,positive
+5.7.20,10:31,Mexico,12/5/1980,Baltimore City,21224,1,2,Testing requested,positive
+5.7.20,10:34,Honduras,1/29/1991,Baltimore City,21230,5,2,Testing requested,pending
+5.7.20,11:04,Honduras,4/15/1989,Baltimore County,21221,10,5,,
+5.7.20,,Honduras,11/24/1999,Baltimore County,21221,10,5,Testing requested,positive
+5.7.20,,Honduras,12/22/1994,Baltimore County,21221,10,5,Testing requested,pending
+5.7.20,,Honduras,1/21/1968,Baltimore County,21221,10,5,Testing requested,negative
+5.7.20,,Honduras,2/4/1967,Baltimore County,21221,10,5,Testing requested,pending
+5.7.20,,Honduras,8/12/1989,Baltimore County,21221,10,5,Testing requested,negative
+5.7.20,,Honduras,1/2/1994,Baltimore County,21221,10,5,Testing requested,positive
+5.7.20,,Honduras,8/8/2012,Baltimore County,21221,10,5,Testing requested,positive
+5.7.20,,Honduras,8/10/2015,Baltimore County,21221,10,5,Testing requested,positve
+5.7.20,11:16,Honduras,5/31/1988,Baltimore County,21222,5,2,Testing requested,
+5.7.20,12:09,Honduras,12/10/1975,Baltimore County,21224,5,1,Referred to ED,
+5.7.20,12:14,Honduras,3/19/1975,Baltimore City,21224,4,1,Testing requested,negative
+5.7.20,12:24,El Salvador,9/29/1983,Baltimore City,21206,4,2,Testing requested,pending
+5.7.20,12:48,El Salvador,7/30/1973,Anne Arundel County,21061,5,,Testing requested,positive
+5.7.20,12:48,El Salvador,2/28/1971,Anne Arundel County,21061,5,,Testing requested,positive
+5.7.20,1:10,Honduras,9/1/1966,Baltimore City,21224,,,Testing requested,pending
+5.7.20,1:37,Honduras,10/17/1987,Baltimore County,21221,3,3,Testing requested,negative
+5.7.20,2:03,Honduras,10/26/1987,Baltimore City,21222,3,3,Testing requested,positive
+5.7.20,,Honduras,11/10/1993,,21222,3,3,Testing requested,negative
+5.7.20,3:12,Honduras,10/20/1979,Baltimore County,21222,5,2,Testing requested,pending
+5.7.20,3:13,Honduras,7/3/1989,Baltimore County,21137,2,2,Testing requested,positive
+5.8.20,9:09,Mexico,10/10/1983,Baltimore City,21224,4,1,Testing requested,positive
+5.8.20,10:21,El Salvador,7/7/1993,Baltimore County,21222,5,1,Testing requested,negative
+5.8.20,10:37,Honduras,7/1/1969,Baltimore City,21224,4,1,Testing requested,positive
+5.8.20,10:42,Peru,4/3/1984,Baltimore City,21227,2,,Testing requested,positive
+5.8.20,,Peru,2/15/1976,Baltimore City,21227,2,,Testing requested,pending
+5.8.20,12:47,Mexico,4/9/1985,Baltimore City,21224,4,3,monitor symptoms,
+5.8.20,1:14,El Salvador,1/11/1975,Baltimore County,21237,4,3,Testing requested,pending
+5.8.20,1:22,El Salvador,8/17/1977,Baltimore City,21224,4,,work clearance provided,
+5.8.20,,El Salvador,11/25/1986,Baltimore City,21230,3,,Tetsting reuqested,pending
+5.8.20,3:02,Honduras,5/5/1984,Baltimore City,21227,4,5,Testing requested,pending
+5.8.20,,Honduras,5/6/1985,Baltimore City,21227,4,5,Testing Requested,pending
+5.8.20,,Honduras,12/10/1985,Baltimore City,21227,4,5,Testing requested,pending
+5.8.20,3:45,El Salvador,3/10/1995,Baltimore City,21224,1,,work clearance provided,
+5.8.20,3:53,Honduras,3/29/1993,Baltimore City,21224,4,2,Testing requested,positive
